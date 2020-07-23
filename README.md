@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkedin :- Prangshu Gogoi, Email:- prangshu28@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I never played PUBG 
-<img src="https://github-readme-stats.vercel.app/api?username=jgprangshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=11a6d5&bg_color=8fc73e"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jgprangshu&&show_icons=true&title_color=ffffff&icon_color=f1f3f3&text_color=e50914&bg_color=24394e"/>
