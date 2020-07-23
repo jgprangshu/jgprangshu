@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola, I'm Prangshu Gogoi! 👋
 
-<!--
-**jgprangshu/jgprangshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a MERN Stack Developer
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Open Source Stuffs
+- 🤔 I’m looking for help with the newbie in town DENO
+- 💬 Ask me about React.js, Redux, Node.js, AWS Lambda, Docker
+- 📫 How to reach me: Linkedin :- Prangshu Gogoi, Email:- prangshu28@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I never played PUBG 
+<img src="https://github-readme-stats.vercel.app/api?username=jgprangshu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
