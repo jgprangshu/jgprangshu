@@ -1,8 +1,5 @@
 ### Hola, I'm Prangshu Gogoi! 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a MERN Stack Developer
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Open Source Stuffs
